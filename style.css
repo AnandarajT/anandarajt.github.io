@@ -1,0 +1,25 @@
+html, body {
+    height: 100vh;
+}
+
+iframe {
+    padding: 0px;
+    margin:0px;
+    border:none;
+    height: 100%;
+    width: 60%;
+}
+
+.ad-box-left {
+    min-width: 150px;
+    width: 20%;
+    float: left;
+    height: 100vh;
+}
+
+.ad-box-right {
+    min-width: 150px;
+    width: 20%;
+    float: right;
+    height: 100vh;
+}
